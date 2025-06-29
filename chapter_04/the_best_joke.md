@@ -1,0 +1,1 @@
+An AI engineer spent six hours coding a program to automatically microwave popcorn, only to burn it because they forgot to add the "remove plastic wrap" exception.
